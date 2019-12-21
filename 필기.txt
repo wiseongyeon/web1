@@ -1,0 +1,27 @@
+<strong>  진하게 표시
+<u> 밑줄긋기
+<h1>~ <h6>  제목을 나타내는 태그(숫자가 올라갈수록 글씨가 작아짐)
+<br>  줄바꿈(태그 닫기 없음)
+<p> 문장의 단락 표시(단락과 단락사이의 여백이 정해져 있음)
+    <p style="margin-top:40px;">    단락과 단락사이에 여백이 위에서 40px만큼 벌어짐
+<img> 이미지를 추가
+
+<parent>    부모 태그(ul태그-순서가 정렬되지 않은 리스트/ ol태그 -순서가 정렬된 리스트)
+    <child></child>   자식 태그<li태그)
+</parent>
+<title> 웹페이지 제목
+<meta charset="UTF-8">  웹페이지를 UTF-8로 문서를 출력
+          <html 기본 구조>
+    <!doctype html>
+    <html>
+    <head>
+      <title></title>
+      <body>
+      <body>
+    </head>
+    </html>
+
+<a> 링크 태그
+  <a href="https://www.w3schools.com/" target="_blank" title="w3schools.com">
+      _blank는 새로운 창에서 링크창 열기
+      title은 커서를 주소위에 올렸을때 tooltip란 생성(설명)
